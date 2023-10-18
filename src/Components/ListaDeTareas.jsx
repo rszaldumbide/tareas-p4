@@ -51,7 +51,6 @@ function ListaDeTareas() {
             eliminarTarea={eliminarTarea}
           />
         ))}
-        ;
       </div>
     </>
   );
