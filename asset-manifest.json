@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tareas-p4/static/css/main.2092021b.css",
+    "main.js": "/tareas-p4/static/js/main.a44da439.js",
+    "static/media/freecodecamp-Logo.png": "/tareas-p4/static/media/freecodecamp-Logo.922fdeee3b1a1c6ac1f9.png",
+    "index.html": "/tareas-p4/index.html",
+    "main.2092021b.css.map": "/tareas-p4/static/css/main.2092021b.css.map",
+    "main.a44da439.js.map": "/tareas-p4/static/js/main.a44da439.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2092021b.css",
+    "static/js/main.a44da439.js"
+  ]
+}
