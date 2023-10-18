@@ -2,11 +2,9 @@ import React from "react";
 
 function Logo(props) {
   return (
-    <img
-      className={props.css}
-      src={props.rutaLogo}
-      alt={props.nombreAlt}
-    />
+    <div className="freecodecamp-logo-contenedor">
+      <img className={props.css} src={props.rutaLogo} alt={props.nombreAlt} />
+    </div>
   );
 }
 
